@@ -1,0 +1,17 @@
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.csprojResolveAssemblyReference.cache
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.frmOrders.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.frmProducts.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.Properties.Resources.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.csproj.GenerateResource.cache
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.csproj.CoreCompileInputs.cache
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\bin\Debug\GuitarHub.exe.config
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\bin\Debug\GuitarHub.exe
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\bin\Debug\GuitarHub.pdb
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.exe
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.pdb
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.frmGuitar.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.frmGuitarAcoustic.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.frmGuitarElectric.resources
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arno Grupp\Desktop\SDV701-GuitarHub-Project\GuitarHub\GuitarHub\obj\Debug\GuitarHub.csproj.CopyComplete

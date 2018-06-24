@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="GuitarHubCustomer.pgOrderComplete"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GuitarHubCustomer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='1' x:Name="background" Background="#FF005FFF">
+        <TextBlock x:ConnectionId='2' x:Name="lblFinishOrderThanks" HorizontalAlignment="Center" Height="122" Margin="10,209,11,0" Text="Thank You For Your Order!" TextWrapping="Wrap" VerticalAlignment="Top" Width="339" FontFamily="Haettenschweiler" FontSize="48" FocusVisualPrimaryBrush="White" FontStyle="Normal" FontWeight="Normal" RequestedTheme="Dark" TextAlignment="Center"/>
+        <Button x:ConnectionId='3' x:Name="btnGoToStore" Content="Return To Store" HorizontalAlignment="Center" Margin="10,355,10,0" VerticalAlignment="Top" Background="Black" FontFamily="Arial" FontSize="16" Width="340" FocusVisualPrimaryBrush="#FFFDFDFE" RequestedTheme="Dark" Height="43" FontWeight="Bold"/>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="GuitarHubCustomer.pgMainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GuitarHubCustomer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='1' x:Name="background" Background="#FF005FFF"                           >
+        <TextBlock x:ConnectionId='2' x:Name="lblProducts" HorizontalAlignment="Center" Height="53" Margin="10,31,11,0" Text="Guitar Hub" TextWrapping="Wrap" VerticalAlignment="Top" Width="339" FontFamily="Haettenschweiler" FontSize="48" FocusVisualPrimaryBrush="White" FontStyle="Normal" FontWeight="Normal" RequestedTheme="Dark" TextAlignment="Center"/>
+        <TextBlock x:ConnectionId='3' x:Name="lblOurProducts" HorizontalAlignment="Center" Margin="10,112,10,0" Text="Our Products" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="20" FontWeight="Normal" RequestedTheme="Dark" TextAlignment="Center" Width="340"/>
+        <Button x:ConnectionId='4' x:Name="btnAddToCart" Content="Add To Cart" HorizontalAlignment="Center" Margin="10,526,10,0" VerticalAlignment="Top" Background="#FF5F8EFF" FontFamily="Arial" FontSize="16" Width="340" FocusVisualPrimaryBrush="White" RequestedTheme="Dark" Height="43"/>
+        <Button x:ConnectionId='5' x:Name="btnGoToCart" Content="Go To Cart" HorizontalAlignment="Center" Margin="10,587,10,0" VerticalAlignment="Top" Background="Black" FontFamily="Arial" FontSize="16" Width="340" FocusVisualPrimaryBrush="#FFFDFDFE" RequestedTheme="Dark" Height="43" FontWeight="Bold"/>
+        <ListBox x:ConnectionId='6' x:Name="lstProducts" HorizontalAlignment="Left" Height="174" Margin="0,153,0,0" VerticalAlignment="Top" Background="#FF5F8EFF" FontFamily="Arial" FontSize="25">
+            <ListBoxItem Content="Fender Telecaster - 2016 White Opal MX" FontFamily="Arial" FontSize="12" RequestedTheme="Dark"/>
+            <ListBoxItem Content="Fender Stratocaster - 2014 Satin Black MX" FontFamily="Arial" FontSize="12" RequestedTheme="Dark"/>
+            <ListBoxItem Content="Fender Jazzmaster - 2010 Red/Black JP" Background="#FF5F8EFF" FontFamily="Arial" FontSize="12" RequestedTheme="Dark"/>
+            <ListBoxItem Content="Fender Jaguar - 2009 Vintage White US" FontFamily="Arial" FontSize="12" RequestedTheme="Dark"/>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Margin="10,350,0,0" Text="Type:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,375,0,0" Text="Style:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,400,0,0" Text="Price:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,425,0,0" Text="Quantity:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,449,0,0" Text="Tremolo:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,473,0,0" Text="Pickup:" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,350,0,0" Text="Electric" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,375,0,0" Text="Telecaster" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,400,0,0" Text="1400" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="81,425,0,0" Text="1" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="81,449,0,0" Text="Yes" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+        <TextBlock HorizontalAlignment="Left" Margin="63,473,0,0" Text="HB" TextWrapping="Wrap" VerticalAlignment="Top" RequestedTheme="Dark"/>
+    </Grid>
+</Page>
+
